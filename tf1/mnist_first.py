@@ -5,8 +5,8 @@ from __future__ import print_function
 import sys 
 import argparse
 
+#this is not really needed
 sys.path.append('/home/NJ/tensor/tensorflow')
-
 
 
 from tensorflow.examples.tutorials.mnist import input_data
